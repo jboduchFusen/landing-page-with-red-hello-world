@@ -3,7 +3,7 @@ import Header from '../components/Header';
 
 const Products = () => {
   return (
-    <div className="min-h-screen flex flex-col bg-green-500">
+    <div className="min-h-screen flex flex-col bg-pink-500">
       <Header />
       <div className="flex-grow flex items-center justify-center">
         <div className="max-w-3xl mx-auto p-6 bg-white rounded-lg shadow-lg">
