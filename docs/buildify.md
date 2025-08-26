@@ -1,6 +1,6 @@
 ## Requirements
 - Create a landing page with "Hello World" in red letters
-- Change the background to green
+- Change the background to yellow
 - Add a header with navigation to 5 pages
 
 ## Design
