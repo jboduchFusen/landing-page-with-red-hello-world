@@ -134,6 +134,6 @@
   }
 
   body {
-    @apply text-foreground bg-white;
+    @apply text-foreground bg-blue-500;
   }
 }
