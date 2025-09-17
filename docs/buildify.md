@@ -1,12 +1,12 @@
 ## Requirements
-- Create a landing page with "Hello World" in red letters
+- Create a landing page with "Hello Mother Earth!" in red letters
 - Change the background to blue
 - Add a header with navigation to 5 pages
 
 ## Design
 - Simple landing page with a blue background
 - Header with navigation menu for 5 pages
-- Main content area with "Hello World" in red text
+- Main content area with "Hello Mother Earth!" in red text
 - Responsive design using Tailwind CSS
 
 ## Tasks
@@ -17,6 +17,8 @@
 | 3 | Create 5 basic page components | Claude 3.5 Haiku | 5 | 100 | 1000 | Complete |
 | 4 | Update routing in App.tsx | Claude 3.5 Haiku | 1 | 30 | 300 | Complete |
 | 5 | Change background to blue | Claude 3.5 Haiku | 1 | 1 | 10 | Complete |
+| 6 | Add exclamation mark to "Hello World" | Claude 3.5 Haiku | 1 | 1 | 10 | Complete |
+| 7 | Change text to "Hello Mother Earth!" | Claude 3.5 Haiku | 1 | 1 | 10 | Complete |
 
 ## Discussions
 User requested a landing page with "Hello World" in red text, which has been implemented. The background has been changed from pink to blue.
