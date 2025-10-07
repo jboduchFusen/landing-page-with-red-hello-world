@@ -18,7 +18,7 @@
 | 4 | Update routing in App.tsx | Claude 3.5 Haiku | 1 | 30 | 300 | Complete |
 | 5 | Change background to blue | Claude 3.5 Haiku | 1 | 1 | 10 | Complete |
 | 6 | Add exclamation mark to "Hello World" | Claude 3.5 Haiku | 1 | 1 | 10 | Complete |
-| 7 | Change text to "Hello Mother Earth!" | Claude 3.5 Haiku | 1 | 1 | 10 | Complete |
+| 8 | Change background to purple | Claude 3.5 Haiku | 1 | 1 | 10 | Complete |
 
 ## Discussions
 User requested a landing page with "Hello World" in red text, which has been implemented. The background has been changed from pink to blue.
