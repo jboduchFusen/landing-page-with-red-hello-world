@@ -21,6 +21,7 @@
 | 8 | Change background to purple | Claude 3.5 Haiku | 1 | 1 | 10 | Complete |
 | 9 | Change background to pink | Claude 3.5 Haiku | 1 | 1 | 10 | Complete |
 | 10 | Change background to green | Claude 3.5 Haiku | 1 | 1 | 10 | Complete |
+| 11 | Change background to blue | Claude 3.5 Haiku | 1 | 1 | 10 | Complete |
 
 ## Discussions
 User requested a landing page with "Hello World" in red text, which has been implemented. The background has been changed from pink to blue.
