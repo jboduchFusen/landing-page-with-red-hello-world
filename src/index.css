@@ -134,6 +134,6 @@
   }
 
   body {
-    @apply text-foreground bg-purple-500;
+    @apply text-foreground bg-pink-500;
   }
 }
